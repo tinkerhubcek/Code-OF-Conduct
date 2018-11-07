@@ -44,10 +44,9 @@ Any promotions which are not directly affiliated to the community should be comp
 
 - Anish A Aziz - _Faculty Coordinator_  
 anish@ce-kgr.org
-- GokulDas K M - _Student Program Coordinator_  
-manjeshshetty@gmail.com, +919008492397
-- Arjun Suvarna - _Chairman, SOSC_  
-arjunsuvarana.s@gmail.com, +919741032296
+- Gokuldas K M - _Student Program Coordinator_  
+gokuldas027@gmail.com
+
 Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [elastic community.](https://www.elastic.co/community/codeofconduct)_
 
 
