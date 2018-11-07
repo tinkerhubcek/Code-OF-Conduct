@@ -1,5 +1,5 @@
-# code-of-conduct
-
+# CODE-OF-CONDUCT
+---------------------------------------
 Welcome to CEK Open-Source Club, We are a community of tech enthusiasts working hard to spread knowledge and strengthen the collaborative culture among the young minds. The Community was made for all aspiring individuals who are keen to share their knowledge for the community.
 
 CEK Open Source Club is a community(while the name differs from a community). Whenever you talk, post or reply, there are other people hearing you or sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you volunteer or participate in events like Hackathons or conferences. Everyone in this group and people you meet through the community events are a potential new friend -treat them that way.
