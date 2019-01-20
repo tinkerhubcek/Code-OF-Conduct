@@ -47,8 +47,8 @@ anish@ce-kgr.org
 - Gokuldas K M - _Student Program Coordinator_  
 gokuldas027@gmail.com
 
-Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [elastic community.](https://www.elastic.co/community/codeofconduct)_
-
+Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [elastic community.](https://www.elastic.co/community/codeofconduct)     
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
